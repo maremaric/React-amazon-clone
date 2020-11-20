@@ -15,19 +15,16 @@ function Home() {
                 <div className="home__row">
                     <Product
                         id="123123123"
-                        title="The lean startup"
-                        price={29.99}
-                        image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+                        title="Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-year Rescue Service (STGX2000400)"
+                        price={62.49}
+                        image="https://images-na.ssl-images-amazon.com/images/I/31jBba7+ySL._AC_US240_FMwebp_QL65_.jpg"
                         rating={5}
                     />
                     <Product
                         id="234234234"
-                        title="Kenwood kMix Stand Mixer for
-                        Baking, Stylish Kitchen Mixer with
-                        K-beater, Dough Hook and Whisk, 5
-                        Litre Glass Bowl"
-                        price={239.00}
-                        image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+                        title="HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor with Built-in Speakers and VESA Mounting, Rotating Portrait & Landscape, Tilt, and HDMI & VGA Ports (1KL30AA) - Black"
+                        price={155.99}
+                        image="https://images-na.ssl-images-amazon.com/images/I/31PTviHMeUL._AC_US160_.jpg"
                         rating={4}
                     />
                 </div>
@@ -35,32 +32,23 @@ function Home() {
                 <div className="home__row">
                     <Product 
                         id="23686734234"
-                        title="Kenwood kMix Stand Mixer for
-                        Baking, Stylish Kitchen Mixer with
-                        K-beater, Dough Hook and Whisk, 5
-                        Litre Glass Bowl"
-                        price={199.99}
-                        image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+                        title="Logitech C920x Pro HD Webcam"
+                        price={104.00}
+                        image="https://images-na.ssl-images-amazon.com/images/I/71iNwni9TsL._AC_UL270_SR270,270_.jpg"
                         rating={3}
                     />
                     <Product 
                         id="7897794234"
-                        title="Kenwood kMix Stand Mixer for
-                        Baking, Stylish Kitchen Mixer with
-                        K-beater, Dough Hook and Whisk, 5
-                        Litre Glass Bowl"
-                        price={98.99}
-                        image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+                        title="Google Wifi - Mesh Wifi System - Wifi Router Replacement - 3 Pack"
+                        price={199.79}
+                        image="https://m.media-amazon.com/images/I/61pPW3AWqsL._AC_UY218_.jpg"
                         rating={4}
                     />
                     <Product 
                         id="2348888884"
-                        title="Kenwood kMix Stand Mixer for
-                        Baking, Stylish Kitchen Mixer with
-                        K-beater, Dough Hook and Whisk, 5
-                        Litre Glass Bowl"
-                        price={598.99}
-                        image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+                        title="Acer Nitro 5 Gaming Laptop, 9th Gen Intel Core i5-9300H, NVIDIA GeForce GTX 1650, 15.6 Full HD IPS Display, 8GB DDR4, 256GB NVMe SSD, Wi-Fi 6, Backlit Keyboard, Alexa Built-in, AN515-54-5812"
+                        price={599.99}
+                        image="https://images-na.ssl-images-amazon.com/images/I/71s1LRpaprL._AC_UL270_SR270,270_.jpg"
                         rating={5}
                     />
                 </div>
@@ -68,12 +56,9 @@ function Home() {
                 <div className="home__row">
                     <Product 
                         id="23111134"
-                        title="Kenwood kMix Stand Mixer for
-                        Baking, Stylish Kitchen Mixer with
-                        K-beater, Dough Hook and Whisk, 5
-                        Litre Glass Bowl"
-                        price={1094.98}
-                        image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg"
+                        title="Hisense 40-Inch 40H5500F Class H55 Series Android Smart TV with Voice Remote (2020 Model)"
+                        price={229.99}
+                        image="https://m.media-amazon.com/images/I/71ZRTMwE3NL._AC_UY218_.jpg"
                         rating={5}
                     />
                 </div>
