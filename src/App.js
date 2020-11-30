@@ -5,11 +5,13 @@ import Home from "./components/Home";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Checkout from "./components/Checkout";
 import Login from "./components/Login";
+import Orders from "./components/Orders";
+import Payment from "./components/Payment";
 import { auth } from "./firebase";
 import { useStateValue } from "./components/StateProvider";
-import Payment from "./components/Payment";
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
+
 
 
 const promise = loadStripe(
@@ -46,6 +48,10 @@ function App() {
     <Router>
       <div className="app">
         <Switch>
+          <Route path="/orders">
+            <Header />
+            <Orders />
+          </Route>
           <Route path="/login">
             <Login />
           </Route>
